@@ -1,0 +1,963 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"isWallRunning"
+			],
+			[
+				"wall",
+				"leftWallHit"
+			],
+			[
+				"modbus_load_",
+				"modbus_load_bmu_data"
+			],
+			[
+				"wallRun",
+				"wallRunTilt"
+			],
+			[
+				"IPPROO",
+				"IPPROTO_RAW"
+			],
+			[
+				"cell",
+				"cell_balance_status"
+			],
+			[
+				"avg_",
+				"avg_cell_temp_2"
+			],
+			[
+				"max",
+				"max_cell_temp_2"
+			],
+			[
+				"sync",
+				"sync_counter_2"
+			],
+			[
+				"S",
+				"SOCK_DGRAM"
+			],
+			[
+				"MOD",
+				"MODBUS_NUM_REGISTERS"
+			],
+			[
+				"MAX",
+				"MODBUS_MAX_CONNECTIONS"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"re",
+				"reChanneled"
+			],
+			[
+				"AROGN",
+				"ARGON_INCLUDE_TTF"
+			],
+			[
+				"Ther",
+				"THERMAL_LENGTH"
+			],
+			[
+				"ARGON",
+				"ARGON_INCLUDE_GFX"
+			],
+			[
+				"SOCKET_",
+				"WAS_SOCKET_ERROR"
+			],
+			[
+				"DEFAULT",
+				"DEFAULT_PKT_SIZE"
+			],
+			[
+				"START",
+				"START_TIMEOUT"
+			],
+			[
+				"RX",
+				"RX_IP"
+			],
+			[
+				"SERIAL",
+				"SERIAL_PREFIX"
+			],
+			[
+				"new",
+				"new_batRelayStatus"
+			],
+			[
+				"gree",
+				"greedyCutRod"
+			],
+			[
+				"html",
+				"htmlentities()"
+			],
+			[
+				"http_code",
+				"http_response_code()"
+			],
+			[
+				"bpc",
+				"bpcuprate"
+			],
+			[
+				"PASSOWR",
+				"PASSWORD_RESET_REQUEST_EXPIRY_TIME\t(config.php)"
+			],
+			[
+				"array_",
+				"array_key_exists\tabc"
+			],
+			[
+				"web",
+				"webhookTester\tabc"
+			],
+			[
+				"ordere",
+				"orderItems\tabc"
+			],
+			[
+				"JSON",
+				"JSON_FORCE_OBJECT\t(CartController.php)"
+			],
+			[
+				"array",
+				"array_key_exists\t(Cart.php)"
+			],
+			[
+				"HTTP",
+				"HTTP_BAD_REQUEST\tabc"
+			],
+			[
+				"payment",
+				"paymentIntentID\tabc"
+			],
+			[
+				"BAD",
+				"HTTP_BAD_REQUEST"
+			],
+			[
+				"calback",
+				"callbackAction\tabc"
+			],
+			[
+				"update",
+				"updateCartItemQty\tabc"
+			],
+			[
+				"updateIte",
+				"updateCartItemQty\t(home.js)"
+			],
+			[
+				"paymentRe",
+				"paymentRequestButton\tabc"
+			],
+			[
+				"products",
+				"products_anchor\t(home.blade.php)"
+			],
+			[
+				"check",
+				"checkSavedOrder\tabc"
+			],
+			[
+				"array_key",
+				"array_key_exists\t(ProductController.php)"
+			],
+			[
+				"editPro",
+				"editProductImageData\tabc"
+			],
+			[
+				"quanti",
+				"quantities_xs\t(dashboard.blade.php)"
+			],
+			[
+				"product",
+				"productImageData\tabc"
+			],
+			[
+				"tsf_render",
+				"tsf_render_short\t(tsf.h)"
+			],
+			[
+				"AL_FOR",
+				"AL_FORMAT_STEREO16\tabc"
+			],
+			[
+				"AL_FORMAT_MONO",
+				"AL_FORMAT_MONO16\tabc"
+			],
+			[
+				"IPPROTO",
+				"IPPROTO_UDP\tabc"
+			],
+			[
+				"urlSafe",
+				"urlSafeBase64Decode\tabc"
+			],
+			[
+				"ARGON_RESOl",
+				"ARGON_RESOLUTION_EXPAND\tabc"
+			],
+			[
+				"border",
+				"border-box\tbox-sizing"
+			],
+			[
+				"__mm",
+				"_mm_mul_ps\tabc"
+			],
+			[
+				"_mm25",
+				"_mm256_store_pd\tabc"
+			],
+			[
+				"_mm2",
+				"_mm256_sub_pd\tabc"
+			],
+			[
+				"GLFW",
+				"GLFWwindow\tabc"
+			],
+			[
+				"uint",
+				"uint16_t\tabc"
+			],
+			[
+				"setStroek",
+				"setStrokeWidth\t(argon.h)"
+			],
+			[
+				"SDL_Get",
+				"SDL_GetWindowID\tabc"
+			],
+			[
+				"unor",
+				"unordered_map\tstandard header (since c++11)"
+			],
+			[
+				"Argon",
+				"ArgonWindow\tabc"
+			],
+			[
+				"rel",
+				"relative\tposition"
+			],
+			[
+				"TAR",
+				"TARGETDIR\tabc"
+			],
+			[
+				"domPar",
+				"domParser\tabc"
+			],
+			[
+				"Matrix",
+				"MATRIX_PRINT\tabc"
+			],
+			[
+				"MAT",
+				"MATRIX_FANCY_PRINT\t(main.cpp)"
+			],
+			[
+				"numPacks",
+				"numPacksPerBMU\t(Controller.h)"
+			],
+			[
+				"status",
+				"statusUpdateTimer\tabc"
+			],
+			[
+				"terraria",
+				"terraria_status\tabc"
+			],
+			[
+				"transform",
+				"text-transform\tproperty"
+			],
+			[
+				"can",
+				"canClickDeselect"
+			],
+			[
+				"file",
+				"filteredFiles"
+			],
+			[
+				"clearSelec",
+				"clearSelectedRecent"
+			],
+			[
+				"sele",
+				"selectedFeatures"
+			],
+			[
+				"affec",
+				"mysql_affected_rows"
+			],
+			[
+				"ceFea",
+				"ceFeatureForm"
+			],
+			[
+				"ce",
+				"ceRecentForm"
+			],
+			[
+				"ceF",
+				"ceFeatureForm"
+			],
+			[
+				"query",
+				"querySelectorAll"
+			],
+			[
+				"ligth",
+				"lightgray"
+			],
+			[
+				"theta",
+				"Theta1"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"vehicle",
+				"vehiclePositions"
+			],
+			[
+				"veh",
+				"vehiclePositions"
+			],
+			[
+				"alert",
+				"alertURL"
+			],
+			[
+				"url",
+				"alertURL"
+			],
+			[
+				"route",
+				"route_dropdown"
+			],
+			[
+				"stop",
+				"stop_dropdown"
+			],
+			[
+				"get",
+				"getRoutePath"
+			],
+			[
+				"APi",
+				"API_KEY"
+			],
+			[
+				"API",
+				"API_KEY"
+			],
+			[
+				"accent",
+				"accent-dark"
+			],
+			[
+				"current",
+				"currentRoute"
+			],
+			[
+				"backg",
+				"background-position\tproperty"
+			],
+			[
+				"LOG_WA",
+				"LOG_WARNING_LABEL"
+			],
+			[
+				"LOG_FOR",
+				"LOG_VERBOSE_FORMAT"
+			],
+			[
+				"backgro",
+				"background-repeat\tproperty"
+			],
+			[
+				"get_class",
+				"get_class_methods"
+			],
+			[
+				"htmlde",
+				"html_entity_decode"
+			],
+			[
+				"override",
+				"overrideArticle"
+			],
+			[
+				"edit",
+				"edit_article"
+			],
+			[
+				"tool",
+				"placeTooltip"
+			],
+			[
+				"upload",
+				"upload_settings"
+			],
+			[
+				"loadPr",
+				"loadProfileBtns"
+			],
+			[
+				"toolb",
+				"toolbarOptions"
+			],
+			[
+				"tab",
+				"tabTimeout"
+			],
+			[
+				"queryS",
+				"querySelector"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"backgrou",
+				"background-image\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"Sour",
+				"SOURCES"
+			],
+			[
+				"bodi",
+				"boidCount"
+			],
+			[
+				"border-radius",
+				"border-top-left-radius\tproperty"
+			],
+			[
+				"border-bottm",
+				"border-bottom-left-radius\tproperty"
+			],
+			[
+				"ne",
+				"nextElementSibling"
+			],
+			[
+				"querySelect",
+				"querySelectorAll"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"drag",
+				"onDragover"
+			],
+			[
+				"A",
+				"AdmZip"
+			],
+			[
+				"active",
+				"activetext"
+			],
+			[
+				"const",
+				"constructor"
+			],
+			[
+				"content",
+				"align-content\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"getEle",
+				"getElementById"
+			],
+			[
+				"box-",
+				"box-sizing\tproperty"
+			],
+			[
+				"margin",
+				"shape-margin\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/Cainos/Pixel Art Top Down - Basic/Script/LayerTrigger.cs",
+			"settings":
+			{
+				"buffer_size": 903,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lowercase",
+				"Convert Case: Lower Case"
+			],
+			[
+				"css",
+				"CSSBrowserPrefixer: add -webkit-, -moz-, -o-, & -ms- to current line"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Rot13 Selection"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"emmet",
+				"Emmet: Decrement Number by 1"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"fold All",
+				"SyntaxFold: Fold All"
+			],
+			[
+				"foldall",
+				"SyntaxFold: Fold All"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"pakcage",
+				"View Package File"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"color",
+				"Color Helper: Show Palettes"
+			],
+			[
+				"package con",
+				"Package Control: Remove Package"
+			],
+			[
+				"list package",
+				"Package Control: List Packages"
+			],
+			[
+				"theme",
+				"ayu: Activate theme"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"ayiu",
+				"ayu: Activate theme"
+			],
+			[
+				"removce",
+				"Package Control: Remove Package"
+			],
+			[
+				"remote",
+				"Remote: Host Session"
+			],
+			[
+				"remot",
+				"Remote: Host Session"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 202.0,
+		"history":
+		[
+			"clear",
+			"view.run_command(\"browser_prefix\")",
+			"view.run_command(\"CSSBrowserPrefixer\")",
+			"view.run_command(\"cssbrowserprefixer\")",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/owen/Documents/School/GameDev/S22_Proj_2A_Kuhn_Owen/Assets",
+		"/Users/owen/Documents/School/GameDev/S22_Proj_2A_Kuhn_Owen/Assets/Cainos",
+		"/Users/owen/Documents/School/GameDev/S22_Proj_2A_Kuhn_Owen/Assets/Cainos/Pixel Art Top Down - Basic",
+		"/Users/owen/Documents/School/GameDev/S22_Proj_2A_Kuhn_Owen/Assets/Cainos/Pixel Art Top Down - Basic/Script"
+	],
+	"file_history":
+	[
+		"/Users/owen/Documents/School/GameDev/S22_Proj_2A_Kuhn_Owen/Assets/Scripts/SublimeTextIntegration.cs",
+		"/Users/owen/Downloads/sequences.py",
+		"/Users/owen/Downloads/vuln-2.c",
+		"/Users/owen/Downloads/test.cpp",
+		"/Users/owen/Downloads/Makefile",
+		"/Users/owen/Documents/Professional/Work/Master BMS/Makefile",
+		"/Users/owen/Downloads/gen.py",
+		"/Users/owen/Downloads/output.txt",
+		"/Users/owen/Downloads/solve.py",
+		"/Users/owen/Downloads/flag.txt",
+		"/Users/owen/Downloads/vuln.c",
+		"/Users/owen/Downloads/hack.py",
+		"/Users/owen/Downloads/output.java",
+		"/Users/owen/Documents/School/GameDev/Practice/Assets/Scripts/Movement.cs",
+		"/Users/owen/Documents/School/GameDev/S22_Proj_3A_GameName/Assets/Scripts/CharacterLook.cs",
+		"/Users/owen/Documents/School/GameDev/S22_Proj_3A_GameName/Assets/Scripts/CameraFollower.cs",
+		"/etc/vli/masterbms",
+		"/Users/owen/Downloads/test.py",
+		"/Users/owen/Downloads/test.python",
+		"/Users/owen/test.txt",
+		"/Users/owen/Downloads/crack.py",
+		"/Users/owen/Downloads/run",
+		"/Users/owen/Downloads/test.sh",
+		"/Users/owen/Documents/Professional/Work/Master BMS/notes.txt",
+		"/Users/owen/Documents/Professional/Work/Master BMS/test/dashboard.html",
+		"/Users/owen/Documents/Professional/Work/Master BMS/test/bmus.py",
+		"/Users/owen/Documents/Professional/Work/Master BMS/test/modbus_client.py",
+		"/Users/owen/Documents/Professional/Work/Master BMS/test/ToshibaBMU.py",
+		"/Users/owen/Documents/Professional/Work/Master BMS/src/config.h",
+		"/Users/owen/Documents/Professional/Work/Master BMS/src/globals.h",
+		"/Users/owen/Documents/Professional/Work/Master BMS/src/config.cpp",
+		"/Users/owen/Documents/Professional/Work/Master BMS/src/bms.cpp",
+		"/Users/owen/Documents/Professional/Work/Master BMS/src/bmu.h",
+		"/Users/owen/Documents/Professional/Work/Master BMS/src/bmu.cpp",
+		"/usr/local/bin/ip.py",
+		"/Users/owen/Documents/Professional/Work/Master BMS/test/listener.py",
+		"/Users/owen/Documents/Professional/Work/Master BMS/src/main.cpp",
+		"/Users/owen/Documents/Professional/Work/Master BMS/src/log.h",
+		"/Users/owen/Documents/Professional/Work/Master BMS/test/simulate_bmu.py",
+		"/Users/owen/Documents/Professional/Work/VLI_EV_16xBMU_Upper_Controller/src_bmu/controller.cpp",
+		"/Users/owen/Documents/Professional/Work/Master BMS/src/log.cpp",
+		"/Users/owen/Documents/Professional/Work/VLI_EV_16xBMU_Upper_Controller/src/controller.cpp",
+		"/Users/owen/Documents/School/GameDev/test/Assets/Cainos/Pixel Art Top Down - Basic/Script/CameraFollow.cs",
+		"/Users/owen/Documents/School/GameDev/S22_Proj_2A_Kuhn_Owen/Assets/Cainos Pixel Art/Script/TopDownCharacterController.cs",
+		"/Users/owen/Documents/Professional/Work/Master BMS/src/bms.h",
+		"/Users/owen/Documents/Coding/cpp/hashcode/2022Qualifying/Makefile",
+		"/Users/owen/Documents/Professional/Work/VLI_EV_16xBMU_Upper_Controller/Makefile",
+		"/private/etc/vli/masterbms",
+		"/Users/owen/Documents/Coding/cpp/hashcode/2022Qualifying/.gitignore",
+		"/Applications/MAMP/htdocs/mts/php/getVehicles.php",
+		"/Applications/MAMP/htdocs/mts2/php/composer.json",
+		"/Applications/MAMP/htdocs/mts2/php/csrf.php",
+		"/Applications/MAMP/htdocs/mts2/php/config.php",
+		"/Applications/MAMP/htdocs/mts2/sw.js",
+		"/Applications/MAMP/htdocs/mts2/manifest.json",
+		"/Users/owen/Documents/Coding/portfolio/conways/Makefile",
+		"/Users/owen/Documents/Coding/portfolio/boid",
+		"/Users/owen/Documents/Coding/portfolio/image_processing/README.md",
+		"/Users/owen/Downloads/CDT/pong.py",
+		"/Users/owen/Documents/School/GameDev/S22_Proj_1B_Kuhn_Owen/Assets/Scripts/GameController.cs",
+		"/Users/owen/Documents/Coding/portfolio/image_processing/Makefile",
+		"/Users/owen/Documents/Coding/portfolio/image_processing/test.txt",
+		"/Users/owen/Documents/Coding/portfolio/image_processing/src/stb_image_write.h",
+		"/Users/owen/Documents/Coding/portfolio/image_processing/src/stb_image.h",
+		"/Users/owen/Documents/YouTube/Image Processing/solutionsrc/Image.cpp",
+		"/Users/owen/Documents/YouTube/Image Processing/src/Image.cpp",
+		"/Users/owen/Documents/Coding/portfolio/image_processing/src/main.cpp",
+		"/Users/owen/Practice/Assets/Scripts/PlayerController.cs",
+		"/Users/owen/Documents/Coding/portfolio/image_processing/new.png",
+		"/Users/owen/Documents/Coding/portfolio/image_processing/src/argparse/argparse.hpp",
+		"/Users/owen/Documents/Coding/portfolio/image_processing/src/argparse.h",
+		"/Users/owen/Documents/Coding/portfolio/boids/Makefile",
+		"/Users/owen/Documents/Coding/cpp/CVisuals/src/Argon.h",
+		"/Users/owen/Documents/Coding/visualizations/boids/main.cpp",
+		"/Users/owen/Documents/Coding/visualizations/boids/boid.h",
+		"/Users/owen/Documents/Coding/visualizations/boids/boid.cpp",
+		"/Users/owen/Documents/Coding/visualizations/boids/Makefile",
+		"/Users/owen/Documents/Coding/visualizations/fractal/Argon.h",
+		"/Users/owen/Documents/Coding/visualizations/fractal/main.cpp",
+		"/Users/owen/Documents/Coding/visualizations/boids/Argon.h",
+		"/Users/owen/Documents/Coding/cpp/CVisuals/Makefile",
+		"/Users/owen/Documents/Coding/cpp/StereoFixer/Makefile",
+		"/Users/owen/Documents/Coding/cpp/oscarify/Makefile",
+		"/Users/owen/Documents/Coding/cpp/Boids/Makefile",
+		"/Users/owen/Documents/Coding/visualizations/fractal/Makefile",
+		"/Users/owen/Documents/Coding/cpp/fractal/src/fractal.cpp",
+		"/Users/owen/Documents/Coding/visualizations/fractal/hpalib/cxxsrc/xcomplex.h",
+		"/Users/owen/Documents/Coding/visualizations/fractal/hpalib/cxxsrc/xreal.h",
+		"/Users/owen/Documents/Coding/visualizations/fractal/xreal.h",
+		"/Users/owen/Documents/Coding/cpp/fractal/Makefile",
+		"/Users/owen/Documents/Coding/cpp/CVisuals/README.md",
+		"/Users/owen/Documents/Coding/cpp/argon/src/app.h",
+		"/Users/owen/Documents/Coding/cpp/argon/src/main.cpp",
+		"/Users/owen/Documents/Coding/cpp/argon/src/app.cpp",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/php/extract.php",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/php/upload.php",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/index.php",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/style.css",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/script.js",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/utils.js",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/sw.js",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/php/genPassword.php",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/php/login.php",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/php/move.php",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/php/open.php",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/php/rename.php",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/php/restore.php",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/php/root.php",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/php/save.php",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/php/saveto.php",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/php/zip.php",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/Editor.js",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/php/config.php",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/php/create.php",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/php/delete.php",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/php/dir.php",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/php/download.php",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/.gitignore",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/Media.js",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/notes.txt",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/Panel.js",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/Menu.js",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/assets/ace/mode-php.js",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/assets/ace/mode-php_laravel_blade.js",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/manifest.json",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/.htaccess",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/login.php",
+		"/Applications/MAMP/htdocs/Slice_Code_Editor_PHP/error.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 175.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/Cainos/Pixel Art Top Down - Basic/Script/LayerTrigger.cs",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 903,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 157.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "S22_Proj_2A_Kuhn_Owen.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

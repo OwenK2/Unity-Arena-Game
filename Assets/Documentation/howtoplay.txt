@@ -1,0 +1,18 @@
+==================================== HOW TO PLAY ====================================
+Use the WASD keys to move
+
+Use the mouse to aim & click to shoot
+
+Use space bar to fire a special arrow that pierces enemies and does double damage
+
+You must wait for your special attack to charge before using (purple bar on bottom)
+
+The upper right corner shows health, damage, and enemies remaining
+
+Kill all the enemies to finish the round
+
+Once the round finishes you will have the opportunity to upgrade a stat
+
+After each round more enemies spawn and they get faster, do more damage, and have more health (harder the difficulty the more speed, damage or health they gain)
+
+Survive as many rounds as possible!
